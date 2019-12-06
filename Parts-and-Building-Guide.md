@@ -2,7 +2,7 @@
 
 ### On This Page:
 1. The parts involved in a PC and some information about the components along with video link to explain as well
-[2. A PC build guide article and video](#anchor)
+2. [A PC build guide article and video](#anchor)
 
 ---
 
