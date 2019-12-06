@@ -12,4 +12,5 @@
 ---
 
 - [Link to README](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
+- [Link to Parts and Building Guide Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/Parts-and-Building-Guide.md)
 - [Link to References](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/References.md)
