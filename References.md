@@ -14,7 +14,7 @@
 - [Computer Case, Does it Matter?](https://www.pcworld.com/article/3226748/how-to-buy-pc-case.html)
 - [OS](https://techterms.com/definition/operating_system)
 - [Monitors](https://www.tomshardware.com/reviews/monitor-buying-guide,5699.html)
-- [Steps to Building a Gaming PC, Basic Process and Requirements] (https://www.intel.com/content/www/us/en/gaming/resources/how-to-build-a-gaming-pc.html)
+- [Steps to Building a Gaming PC(Basic Process and Requirements)](https://www.intel.com/content/www/us/en/gaming/resources/how-to-build-a-gaming-pc.html)
 - [PC Building Guide Video](https://www.youtube.com/watch?v=OZaFqY8UF6I&feature=youtu.be)
 - [Sound Card (optional)](https://www.lifewire.com/what-is-a-sound-card-2618160)
 - [Operating system, or OS](https://techterms.com/definition/operating_system)
@@ -26,7 +26,7 @@
 - [What Does 144hz Mean?](https://www.displayninja.com/what-does-144hz-mean/)
 - [Monitor](https://www.tomshardware.com/reviews/monitor-buying-guide,5699.html)
 - [Case](https://www.pcworld.com/article/3226748/how-to-buy-pc-case.html)
-- [Overclocking](https://www.pcworld.com/article/198882/overclocking_for_newbies.html) their systems.
+- [Overclocking](https://www.pcworld.com/article/198882/overclocking_for_newbies.html)
 - [Liquid and Air Cooling Systems](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html)
 - [System Cooling — CPU Cooling and Chassis Airflow](https://www.tomshardware.com/reviews/cooling-buying-guide,6105.html)
 - [Power Supply Calculator](https://outervision.com/power-supply-calculator)
