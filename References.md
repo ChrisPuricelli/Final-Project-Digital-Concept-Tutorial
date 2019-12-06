@@ -1,6 +1,9 @@
 # All Links In One Place
 
-[Link to README Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
+- [Link to README Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
+- [Link to Pros and Cons Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/Pros-and-Cons.md)
+
+---
 
 ## References:
 - [RAM](https://www.digitaltrends.com/computing/what-is-ram/)
