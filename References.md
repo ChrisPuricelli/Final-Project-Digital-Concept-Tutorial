@@ -46,6 +46,6 @@
     - [PCIe](https://www.tomshardware.com/reviews/pcie-definition,5754.html)
     - [Northbridge and Southbridge](https://asmed.com/comptia-a-southbridge-and-northbridge/)
 - [AMD vs Intel](https://www.digitaltrends.com/computing/amd-vs-intel/)
-- [Central processing unit (CPU)](https://www.trustedreviews.com/news/what-is-a-cpu-2950255)
+- [Central Processing Unit (CPU)](https://www.trustedreviews.com/news/what-is-a-cpu-2950255)
 - [Laptops vs Desktops (Pros/Cons)](https://www.computerhope.com/issues/ch001399.htm)
 - [What to use for Work, Gaming, or School](https://techguided.com/laptop-vs-desktop/#4)
