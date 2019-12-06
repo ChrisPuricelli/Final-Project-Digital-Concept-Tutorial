@@ -49,3 +49,9 @@
 2. General Building Process:
   - [Steps to Building a Gaming PC, Basic Process and Requirements](https://www.intel.com/content/www/us/en/gaming/resources/how-to-build-a-gaming-pc.html)
   - [PC Building Guide Video](https://www.youtube.com/watch?v=OZaFqY8UF6I&feature=youtu.be)
+
+---
+
+- [Link to README](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
+- [Link to Pros and Cons Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/Pros-and-Cons.md)
+- [Link to References Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/References.md)
