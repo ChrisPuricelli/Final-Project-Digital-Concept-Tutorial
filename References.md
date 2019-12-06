@@ -1,5 +1,7 @@
 # All Links In One Place
 
+[Link to README Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
+
 ## References:
 - [RAM](https://www.digitaltrends.com/computing/what-is-ram/)
 - [CPU](https://www.trustedreviews.com/news/what-is-a-cpu-2950255)
