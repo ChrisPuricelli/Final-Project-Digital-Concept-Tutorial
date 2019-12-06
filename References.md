@@ -2,6 +2,7 @@
 
 - [Link to README Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
 - [Link to Pros and Cons Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/Pros-and-Cons.md)
+- [Link to Parts and Building Guide Page](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/Parts-and-Building-Guide.md)
 
 ---
 
