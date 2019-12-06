@@ -9,5 +9,7 @@
   - Summary: All in all, the choice is dependent on the person and what their needs are for the situations they’re planning on using the computer in. For power and performance, go with a desktop, for mobility and overall comfort, go with a laptop. It’s also worth mentioning that many people will purchase a cheap laptop that satisfies the basic requirements they need (for instance, a laptop that can handle notes and some class programs) and then also have a desktop separate just for gaming. 
   - If you want to go for a gaming laptop however, you’ll be able to find ones that are capable of both gaming and running programs - with a slight catch. The catch is that desktops are more heavy duty, and laptops are built around mobility and long lasting battery. Due to that fact, if you want to use a laptop for both things the best you’ll be able to find is a laptop that’s decent at both tasks. This means that if you buy a gaming laptop, you’ll be able to run programs like CAD, do video manipulation, etc. and you’ll be able to game as well, but most likely you won’t be able to run every game on maxed settings because that’s just not what laptops are designed around.
 
-[Link to README](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
-[Link to References](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/References.md)
+---
+
+- [Link to README](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/README.md)
+- [Link to References](https://github.com/ChrisPuricelli/Final-Project-Digital-Concept-Tutorial/blob/master/References.md)
