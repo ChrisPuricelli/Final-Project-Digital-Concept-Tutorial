@@ -2,7 +2,7 @@
 
 ### On This Page:
 1. The parts involved in a PC and some information about the components along with video link to explain as well
-2. A PC build guide article and video
+[2. A PC build guide article and video](##### 2. General Building Process:)
 
 ---
 
@@ -46,6 +46,6 @@
 
 - [Sound Card (optional)](https://www.lifewire.com/what-is-a-sound-card-2618160) Most sound cards now typically are built directly onto the motherboard, known as on-board sound cards. However, additional sound cards can be installed on a desktop PCIe slot to enable superior audio quality over the on-board card. There are USB versions of sound cards that can work with either desktops or laptops as well allowing audio devices like headphones to be plugged into them. For the most part, this isn’t something to worry about for many people when buying a computer as the on-board sound card is usually sufficient.
 
-2. General Building Process:
+##### 2. General Building Process:
   - [Steps to Building a Gaming PC, Basic Process and Requirements](https://www.intel.com/content/www/us/en/gaming/resources/how-to-build-a-gaming-pc.html)
   - [PC Building Guide Video](https://www.youtube.com/watch?v=OZaFqY8UF6I&feature=youtu.be)
