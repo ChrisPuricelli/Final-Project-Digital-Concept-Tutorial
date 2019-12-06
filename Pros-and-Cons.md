@@ -1,5 +1,6 @@
 # Pros vs. Cons, What Should You Choose?
 
+---
 
 ## [What to use for Work, Gaming, or School](https://techguided.com/laptop-vs-desktop/#4)
 1.  Work: Depends on what you do for a living. If your work requires you to be mobile, you would be best off with a laptop, but if your job involves video manipulation, graphic design, etc. you may be better off with a PC for sheer power and performance at a reduced cost - although there are laptops out there capable of handling on-the-go demanding computer performance.
