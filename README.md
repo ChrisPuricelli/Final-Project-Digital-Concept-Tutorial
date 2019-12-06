@@ -1,8 +1,7 @@
-# Final-Project-Digital-Concept-Tutorial
-
-## Laptop vs. Desktop and How to Decide Which to Buy
+# Laptop vs. Desktop and Parts Within
 #### Author: Chris Puricelli
 
+---
 
   The purpose of the tutorial is to provide basic, summarized information about laptops vs desktops, where each are applicable, and the parts within them. The decision on whether someone should have a laptop or desktop is dependent on the situations they intend to use it. That being said, the goal of this tutorial is to help provide information for making that decision. There will also be short summarized information about different parts within computers to help those that are unfamiliar. At the end, for those wishing to build their own desktop, there will be links and video tutorials to help walk them through the process.
 
